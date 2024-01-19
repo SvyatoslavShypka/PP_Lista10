@@ -22,7 +22,7 @@ public class Debug {
         Przedmiot przedmiot = new Przedmiot(1L, "Paradygmaty Programowania", 5.0f);
         Debug.fields(przedmiot);
 
-        //test2
+        //test3
         System.out.println("----------Test3:");
         Student darek = new Student(272678L, "Darek", new Date(),5);
         Debug.fields(darek);
